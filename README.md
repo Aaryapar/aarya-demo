@@ -1,4 +1,4 @@
 # aarya-demo
 this is my first git repository
 <br>
-author-Aarya pargaonkar
+author-Aarya pargaonkar(IITR)
